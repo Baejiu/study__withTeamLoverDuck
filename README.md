@@ -6,6 +6,8 @@
 
 ### 목차
 
+- [객체](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/javaScript/04/object.md)
+- [원시값&참조타입](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/javaScript/04/primitive_reference.md)
 - [클래스](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/javaScript/04/class.md)
 - [DOM](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/javaScript/05/DOM.md)
 - [Map/Set](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/javaScript/05/Map_Set.md)

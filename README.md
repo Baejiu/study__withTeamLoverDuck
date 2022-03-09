@@ -6,6 +6,9 @@
 
 ### 목차
 
+- [함수](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/javaScript/04/function.md)
+- [스코프](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/javaScript/04/scope.md)
+- [let, const](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/javaScript/04/let_const.md)
 - [객체](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/javaScript/04/object.md)
 - [원시값&참조타입](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/javaScript/04/primitive_reference.md)
 - [클래스](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/javaScript/04/class.md)

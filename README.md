@@ -42,3 +42,4 @@
 - [해시/맵 - 폰켓몬](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/dataStructure/01_algorithms/problems/Q2_code.js)
 - [링크드리스트 - 순환되는 위치 찾기](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/dataStructure/02_LinkedList/problems/Q1_code.js)
 - [링크드리스트 - 특정 구간만 리버스](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/dataStructure/02_LinkedList/problems/Q2_code.js)
+- [스택/큐 - 다리를 지나는 트럭](https://github.com/Baejiu/study__withTeamLoverDuck/blob/main/dataStructure/02_LinkedList/problems/Q3_code.js)
